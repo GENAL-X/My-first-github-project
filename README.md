@@ -15,4 +15,9 @@ This repository documents my journey learning step by step
 - Created First github account and first respository 
 
 ## Desktop Edit 
-- i editted this file on my computer 
+- This change was made via GitHub Desktop
+- I edited this file on my computer 
+
+## Learning process 
+- i have learnt how to get my files, clone repository to my system locally 
+- also learnt the Edit-Commit-Push methods. This helps you to make changes offline and then send it later.
