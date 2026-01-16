@@ -21,3 +21,6 @@ This repository documents my journey learning step by step
 ## Learning process 
 - i have learnt how to get my files, clone repository to my system locally 
 - also learnt the Edit-Commit-Push methods. This helps you to make changes offline and then send it later.
+
+## Merged Work
+This line came from a branch.
