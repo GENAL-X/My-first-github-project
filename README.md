@@ -1,2 +1,12 @@
 # My-first-github-project
-learning how to use github step by step 
+
+This repository documents my journey learning step by step 
+## About me 
+- Name: Promise Offiong
+- Field: Engineereing
+- Goal: Become future- prooof in tevhnology
+
+## What am learning 
+- GitHub bsics
+- Version Control
+- Collaboration 
