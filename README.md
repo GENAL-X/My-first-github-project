@@ -15,5 +15,4 @@ This repository documents my journey learning step by step
 - Created First github account and first respository 
 
 ## Desktop Edit 
-- Thischange was made via GitHub Desktop
 - i editted this file on my computer 
