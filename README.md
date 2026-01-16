@@ -10,3 +10,6 @@ This repository documents my journey learning step by step
 - GitHub bsics
 - Version Control
 - Collaboration 
+
+## Progresss Log 
+- Created First github account and first respository 
